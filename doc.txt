@@ -1,1 +1,1 @@
- Ambiente QA, use para testes.
+ Ambiente Prod.
